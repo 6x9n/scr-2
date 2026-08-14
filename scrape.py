@@ -7,8 +7,8 @@ import time
 
 import requests
 
-START_SEAT = 2946001
-END_SEAT = 2963000
+START_SEAT = 2938271
+END_SEAT = 2948702
 BASE_URL = "https://nategafany.com/api/result.php"
 
 STATE_FILE = "checkpoint.json"
